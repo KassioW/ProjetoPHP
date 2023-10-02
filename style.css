@@ -1,0 +1,33 @@
+body {
+    width: 600px;
+    margin: 10% auto;
+    background-color: #0a96e7e1;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid rgb(252, 252, 252);
+    box-shadow: 10px 20px 5px #130c0c;
+  }
+
+input{
+
+    box-shadow: 10px 10px 5px #474747;
+    font-size: large;
+    font-weight: bold;
+}
+  label{
+    font-size: large;
+    font-weight: bold;
+
+  }
+  div{
+  margin-bottom: 2%;
+
+  }
+
+  button{
+    box-shadow: 10px 10px 5px #0a0000;
+    background-color: #13e200;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 10%;
+    border: 2px solid rgb(0, 0, 0);
+  }
